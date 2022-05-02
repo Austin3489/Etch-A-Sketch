@@ -1,3 +1,3 @@
 # Etch-A-Sketch
 
-Second Completed Javascript Project for TOP, plan on coming back for more enhanced color
+This project is a simple html/css based project that relies on the mouse hover ability
